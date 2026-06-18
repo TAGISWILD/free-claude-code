@@ -1,3 +1,5 @@
+> Fork note: this is TAGISWILD's fork of `Alishahryar1/free-claude-code`, kept for reference and experimentation. Upstream documentation continues below.
+
 <div align="center">
 
 # 🤖 Free Claude Code
